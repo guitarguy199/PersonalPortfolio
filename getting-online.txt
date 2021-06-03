@@ -1,0 +1,24 @@
+DigitalOcean Droplets
+
+LEMP STACK
+
+$5/ mo plan
+
+one-time password works, but SSH is better down the line
+
+Click project name after creating, go to console
+
+enter login and password from email
+
+-- Putting files onto Droplet --
+
+Fetch for Mac (filezilla, cyberduck also)
+
+
+Protocol SFTP SSH File Transfer Protocol
+
+Host: IP Port: 22 (for SFTP... regular FTP is port 80)
+
+find var folder in FTP -> www folder - > html
+
+replace index.html with files (index.html, css/js/asset folders)
