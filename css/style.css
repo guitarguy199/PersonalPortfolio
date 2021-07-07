@@ -548,3 +548,7 @@ header {
   font-family: var(--ff-secondary);
   margin-bottom: 1em;
 }
+
+.soon {
+  text-align: center;
+}
